@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/dummy_index.html
+/dummy_App.js
+.parcel-cache
+/notes.txt
+src/components/Demo.js
